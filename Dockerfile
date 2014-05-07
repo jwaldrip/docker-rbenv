@@ -1,4 +1,4 @@
-FROM itriage/base
+FROM jwaldrip/base
 MAINTAINER Jason Waldrip <jason@waldrip.net>
 
 # Install deps
